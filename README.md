@@ -1,2 +1,2 @@
 # hotpot
-Make multi-os development easier without mixing in any unnecessary code!
+Python development tool for optimizinig multi-os dev
